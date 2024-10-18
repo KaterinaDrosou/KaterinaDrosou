@@ -41,8 +41,8 @@
 - German 🇩🇪 -->
 
 ## 📊 GitHub Stats:
-![Katerina Drosou Stats](https://github-readme-stats.vercel.app/api?username=KaterinaDrosou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Katerina Drosou Stats](https://github-readme-stats.vercel.app/api?username=KaterinaDrosou&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&langs_count=8&layout=compact&hide=TeX)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
