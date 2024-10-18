@@ -1,11 +1,15 @@
 ## Hi, I'm Katerina Drosou 👋
-I'm a Software Developer building my version of the digital world one step at a time. I am a graduate student from the Department of Industrial Management and Technology at University of Piraeus, with a big interest in Computer Science. Currently in my second year of MSc in Informatics at University of Piraeus. In my coding journey so far i am learning as much as possible trying to become better every day, with my end goal being to apply all my theoretical knowledge into real-life applications and create fun and useful projects with code. 
-My public repositories are my MSc coding projects.
+
+👩‍🎓 Graduate student from the Department of Industrial Management and Technology at University of Piraeus. </br>
+👩‍💻 Currently I'm doing my MSc in **Informatics** at University of Piraeus, with a big interest in Computer Science. </br>
+🚀 In my coding journey so far I am learning as much as possible trying to become better every day, with my end goal being to apply all my theoretical knowledge into real-life applications and create fun and useful projects with code. </br>
+🗂️ My public repositories are my MSc coding projects.
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aikaterini-maria-drosou-10a900209)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drossou2@gmail.com)
 
-## 🛠️ 💻Tech Stack
+## 🛠️ Tech Stack
 <!-- C# -->
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <!-- HTML --> 
@@ -32,11 +36,11 @@ My public repositories are my MSc coding projects.
 <br />
 
 
-## 🌱 I’m currently learning
+<!-- ## 🌱 I’m currently learning
 - Italian 🇮🇹
-- German 🇩🇪
+- German 🇩🇪 -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Katerina Drosou Stats](https://github-readme-stats.vercel.app/api?username=KaterinaDrosou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
