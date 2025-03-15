@@ -40,10 +40,7 @@
 
 ## 📊 GitHub Stats:
 ![Katerina Drosou Stats](https://github-readme-stats.vercel.app/api?username=KaterinaDrosou&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&langs_count=8&layout=compact&hide=TeX&include_langs=Java)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&langs_count=8&layout=compact&theme=dracula&hide=TeX)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
