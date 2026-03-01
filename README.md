@@ -1,9 +1,15 @@
-## Hi, I'm Katerina Drosou 👋
+👩‍💻 **Software Developer**
 
-👩‍🎓 Graduate student from the Department of Industrial Management and Technology at University of Piraeus. </br>
-👩‍💻 Currently I'm doing my MSc in **Informatics** at University of Piraeus, with a big interest in Computer Science. </br>
-🚀 In my coding journey so far I am learning as much as possible trying to become better every day, with my end goal being to apply all my theoretical knowledge into real-life applications and create fun and useful projects with code. </br>
-🗂️ My public repositories are my MSc coding projects.
+MSc in Informatics | BSc in Industrial Management & Technology
+
+Currently working in software development, with hands-on experience in building structured applications and applying software engineering principles in practice.
+
+This GitHub profile showcases:
+- Academic projects
+- Software engineering implementations
+- Algorithm & data structure practice
+- Personal development projects
+I’m passionate about continuous improvement and building software that is both functional and well-architected.
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aikaterini-maria-drosou-10a900209)
@@ -36,11 +42,6 @@
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br />
 <br />
-
-
-## 📊 GitHub Stats:
-![Katerina Drosou Stats](https://github-readme-stats.vercel.app/api?username=KaterinaDrosou&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaDrosou&langs_count=8&layout=compact&theme=dracula&hide=TeX)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
