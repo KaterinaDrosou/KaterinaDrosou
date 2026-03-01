@@ -13,7 +13,7 @@ I’m passionate about continuous improvement and building software that is both
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aikaterini-maria-drosou-10a900209)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drossou2@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdrosou01@gmail.com)
 
 ## 🛠️ Tech Stack
 <!-- C# -->
